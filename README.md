@@ -28,32 +28,32 @@ Explore the live dashboard [here](https://app.powerbi.com/groups/me/reports/eae4
 
 - **Data Model:**
 
-  ![Busniess_360_data_model]()
+  ![Busniess_360_data_model](https://github.com/ankurkatiyar167/Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain/blob/main/data%20model.png)
 
 
 - **Finance View**: Explore P&L statements, product analysis, and net sales trends.
 
-  ![Busniess_360_FinanceView]()
+  ![Busniess_360_FinanceView](https://github.com/ankurkatiyar167/Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain/blob/main/Finance%20view.png)
 
 
 - **Sales View**: Dive into customer and product performance with dynamic charts and filters.
 
-  ![Busniess_360_SaleView]()
+  ![Busniess_360_SaleView](https://github.com/ankurkatiyar167/Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain/blob/main/Sales%20view.png)
 
 
 - **Marketing View**: Gain insights into product and regional performance metrics.
 
-  ![Busniess_360_MarketingView]()
+  ![Busniess_360_MarketingView](https://github.com/ankurkatiyar167/Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain/blob/main/marketing%20view.png)
 
 
 - **Supply Chain View**: Analyze forecast accuracy and net error metrics.
 
-  ![Busniess_360_SupplychainView]()
+  ![Busniess_360_SupplychainView](https://github.com/ankurkatiyar167/Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain/blob/main/Supply%20Chain%20view.png)
 
 
 - **Executive View**: Get high-level insights with KPI cards and revenue breakdowns.
 
-  ![Busniess_360_ExecutiveView]()
+  ![Busniess_360_ExecutiveView](https://github.com/ankurkatiyar167/Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain/blob/main/Executive%20view.png)
 
 ## Data Sources
 
